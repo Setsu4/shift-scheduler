@@ -9,6 +9,8 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+  output: 'export', // 静的サイトとして出力する
 }
+
 
 export default nextConfig
